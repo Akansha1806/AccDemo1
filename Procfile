@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* AccDemo2
+web:    java -cp target/classes:target/dependency/* MercFirstDemo
